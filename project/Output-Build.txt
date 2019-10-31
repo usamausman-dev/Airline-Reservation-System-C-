@@ -1,0 +1,12 @@
+﻿1>------ Build started: Project: project, Configuration: Debug Any CPU ------
+1>E:\Shehzad\project\project\upanel.Designer.cs(284,64,284,97): warning CS0169: The field 'upanel.arrivalPDataGridViewTextBoxColumn' is never used
+1>E:\Shehzad\project\project\upanel.Designer.cs(279,64,279,94): warning CS0169: The field 'upanel.pCNICDataGridViewTextBoxColumn' is never used
+1>E:\Shehzad\project\project\upanel.Designer.cs(280,64,280,96): warning CS0169: The field 'upanel.pNumberDataGridViewTextBoxColumn' is never used
+1>E:\Shehzad\project\project\upanel.Designer.cs(278,64,278,94): warning CS0169: The field 'upanel.pNameDataGridViewTextBoxColumn' is never used
+1>E:\Shehzad\project\project\upanel.Designer.cs(283,64,283,97): warning CS0169: The field 'upanel.arrivalCDataGridViewTextBoxColumn' is never used
+1>E:\Shehzad\project\project\upanel.Designer.cs(282,64,282,99): warning CS0169: The field 'upanel.departurePDataGridViewTextBoxColumn' is never used
+1>E:\Shehzad\project\project\upanel.Designer.cs(281,64,281,99): warning CS0169: The field 'upanel.departureCDataGridViewTextBoxColumn' is never used
+1>E:\Shehzad\project\project\upanel.Designer.cs(285,64,285,96): warning CS0169: The field 'upanel.paymentDataGridViewTextBoxColumn' is never used
+1>E:\Shehzad\project\project\Booking.cs(16,16,16,34): warning CS0414: The field 'Booking.MyConnectionString' is assigned but its value is never used
+1>  project -> E:\Shehzad\project\project\bin\Debug\project.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
